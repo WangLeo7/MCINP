@@ -1,0 +1,24 @@
+{
+  "dimension": 1,
+  "N": 64,
+  "L": 8,
+  "width": 32,
+  "method": "MCINP",
+  "seed": 123,
+  "times": [
+    0.0,
+    0.1,
+    0.5,
+    1.0
+  ],
+  "reference_cap": 1e-08,
+  "epochs": 3,
+  "patience": 3,
+  "learning_rate": 0.001,
+  "device": "cpu",
+  "data_seed": null,
+  "test_N": null,
+  "train_count": 4,
+  "validation_count": 2,
+  "test_count": 2
+}

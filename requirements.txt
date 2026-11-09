@@ -1,0 +1,11 @@
+# Core finite-grid reference dependencies. Install PyTorch separately for the selected CPU/CUDA platform.
+numpy==2.4.6
+scipy==1.17.1
+neuraloperator==2.0.0
+tensorly==0.9.0
+tensorly-torch==0.5.0
+opt-einsum==3.4.0
+threadpoolctl==3.6.0
+configmypy==0.2.0
+wandb==0.30.0
+ruamel.yaml==0.19.1
