@@ -43,5 +43,5 @@ states before normalization. Iterative training writes **history.csv**. Per-case
 predictions, reference fields and observation times. The forward timing column measures individual
 evaluation calls.
 
-Please cite Shenpei Wang and Hairong Lian, *MCINP: Fourier Neural Propagator with Mean-Coefficient Interaction for Spatial Fractional Diffusion Equations*. See [LICENSE](LICENSE) and
+Please cite *MCINP: Fourier Neural Propagator with Mean-Coefficient Interaction for Spatial Fractional Diffusion Equations*. See [LICENSE](LICENSE) and
 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
